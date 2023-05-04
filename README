@@ -1,0 +1,5 @@
+recording a roast manually
+
+> gnuplot live.gnu
+
+> node record.js > log.dat
